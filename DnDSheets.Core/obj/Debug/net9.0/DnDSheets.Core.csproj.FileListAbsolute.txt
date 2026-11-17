@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\bin\Debug\net9.0\DnDSheets.Core.deps.json
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\bin\Debug\net9.0\DnDSheets.Core.dll
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\bin\Debug\net9.0\DnDSheets.Core.pdb
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\DnDSheets.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\DnDSheets.Core.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\DnDSheets.Core.AssemblyInfo.cs
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\DnDSheets.Core.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\DnDSheets.Core.dll
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\refint\DnDSheets.Core.dll
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\DnDSheets.Core.pdb
+C:\Users\usuario\Documents\Nueva carpeta (2)\DnDSheets.Core\obj\Debug\net9.0\ref\DnDSheets.Core.dll
